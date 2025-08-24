@@ -8,3 +8,7 @@
 #### 6. [50. Pow(x, n)](https://leetcode.com/problems/powx-n/description/) - Facebook/Amazon/Linkedln
 #### 7. [13. Roman to Integer](https://leetcode.com/problems/roman-to-integer/description/) - Google
 #### 8. [12. Integer to Roman](https://leetcode.com/problems/integer-to-roman/description/) - Amazon
+
+## String 
+#### 1. [344. Reverse String](https://leetcode.com/problems/reverse-string/description/) - Microsoft/Uber
+#### 2. [14. Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) - Facebook
