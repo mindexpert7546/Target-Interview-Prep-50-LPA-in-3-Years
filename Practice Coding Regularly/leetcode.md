@@ -14,4 +14,5 @@
 #### 2. [14. Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) - Facebook
 #### 3. [187. Repeated DNA Sequences](https://leetcode.com/problems/repeated-dna-sequences/) - Google
 #### 4. [242. Valid Anagram](https://leetcode.com/problems/valid-anagram/description/) - Facebook
+#### 5. [5. Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/description/) - Facebook
 
