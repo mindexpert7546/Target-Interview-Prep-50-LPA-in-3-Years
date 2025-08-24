@@ -13,4 +13,5 @@
 #### 1. [344. Reverse String](https://leetcode.com/problems/reverse-string/description/) - Microsoft/Uber
 #### 2. [14. Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) - Facebook
 #### 3. [187. Repeated DNA Sequences](https://leetcode.com/problems/repeated-dna-sequences/) - Google
+#### 4. [242. Valid Anagram](https://leetcode.com/problems/valid-anagram/description/) - Facebook
 
