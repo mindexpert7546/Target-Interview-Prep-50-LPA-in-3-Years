@@ -19,3 +19,4 @@
 
 ## Binary Search 
 #### 1. [704. Binary Search](https://leetcode.com/problems/binary-search/description/) - Infosys/Oracle
+#### 2. [33. Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/description/) - Facebook
