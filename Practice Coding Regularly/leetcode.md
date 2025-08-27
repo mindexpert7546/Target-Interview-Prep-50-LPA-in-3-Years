@@ -20,3 +20,4 @@
 ## Binary Search 
 #### 1. [704. Binary Search](https://leetcode.com/problems/binary-search/description/) - Infosys/Oracle
 #### 2. [33. Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/description/) - Facebook
+#### 3. [153. Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/description/) - Facebook
