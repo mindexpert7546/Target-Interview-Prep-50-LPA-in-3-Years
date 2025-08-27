@@ -16,3 +16,6 @@
 #### 4. [242. Valid Anagram](https://leetcode.com/problems/valid-anagram/description/) - Facebook
 #### 5. [5. Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/description/) - Facebook
 #### 6. [3. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) - Google
+
+## Binary Search 
+#### 1. [704. Binary Search](https://leetcode.com/problems/binary-search/description/) - Infosys/Oracle
