@@ -31,7 +31,8 @@
 #### 6. [58. Length of Last Word](https://leetcode.com/problems/length-of-last-word/description/) - Amazon
 
 ## Two Pointers
-#### [167. Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/description/) - Amazon
-#### [392. Is Subsequence](https://leetcode.com/problems/is-subsequence/description/) - Google
-#### [26. Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/) - Facebook/Microsoft
-#### [75. Sort Colors](https://leetcode.com/problems/sort-colors/description/) - Facebook
+#### 1. [167. Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/description/) - Amazon
+#### 2. [392. Is Subsequence](https://leetcode.com/problems/is-subsequence/description/) - Google
+#### 3. [26. Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/) - Facebook/Microsoft
+#### 4. [75. Sort Colors](https://leetcode.com/problems/sort-colors/description/) - Facebook
+#### 5. [125. Valid Palindrome](https://leetcode.com/problems/valid-palindrome/description/) - Facebook
