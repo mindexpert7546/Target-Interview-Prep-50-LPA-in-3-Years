@@ -26,3 +26,4 @@
 #### 1. [1. Two Sum](https://leetcode.com/problems/two-sum/description/) - Google
 #### 2. [283. Move Zeroes](https://leetcode.com/problems/move-zeroes/description/) - Facebook
 #### 3. [121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/) - Facebook/Microsoft
+#### 4. [383. Ransom Note](https://leetcode.com/problems/ransom-note/description/) - Amazon
