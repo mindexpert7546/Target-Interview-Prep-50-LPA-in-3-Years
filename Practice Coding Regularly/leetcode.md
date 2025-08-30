@@ -28,3 +28,4 @@
 #### 3. [121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/) - Facebook/Microsoft
 #### 4. [383. Ransom Note](https://leetcode.com/problems/ransom-note/description/) - Amazon
 #### 5. [217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) - Google
+#### 6. [58. Length of Last Word](https://leetcode.com/problems/length-of-last-word/description/) - Amazon
