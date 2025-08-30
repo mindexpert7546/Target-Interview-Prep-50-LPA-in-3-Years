@@ -29,3 +29,6 @@
 #### 4. [383. Ransom Note](https://leetcode.com/problems/ransom-note/description/) - Amazon
 #### 5. [217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) - Google
 #### 6. [58. Length of Last Word](https://leetcode.com/problems/length-of-last-word/description/) - Amazon
+
+## Two Pointers
+#### [167. Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/description/) - Amazon
