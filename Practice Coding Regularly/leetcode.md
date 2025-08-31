@@ -41,3 +41,7 @@
 ## Stacks & Queues
 #### 1. [20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/description/) - Facebook
 #### 2. [735. Asteroid Collision](https://leetcode.com/problems/asteroid-collision/description/) - Lyft
+
+## LinkedList
+#### 1. [876. Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/description/) - Microsoft
+
