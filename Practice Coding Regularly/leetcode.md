@@ -37,4 +37,6 @@
 #### 4. [75. Sort Colors](https://leetcode.com/problems/sort-colors/description/) - Facebook
 #### 5. [125. Valid Palindrome](https://leetcode.com/problems/valid-palindrome/description/) - Facebook
 #### 6. [88. Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/description/) - Microsoft
-#### 7. [20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/description/) - Facebook
+
+## Stacks & Queues
+#### 1. [20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/description/) - Facebook
