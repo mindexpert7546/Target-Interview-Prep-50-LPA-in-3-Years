@@ -42,6 +42,9 @@
 #### 1. [20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/description/) - Facebook
 #### 2. [735. Asteroid Collision](https://leetcode.com/problems/asteroid-collision/description/) - Lyft
 
+## Matrix 2D Array 
+#### 1. [1572. Matrix Diagonal Sum](https://leetcode.com/problems/matrix-diagonal-sum/description/) - Microsoft
+
 ## Linked List
 #### 1. [876. Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/description/) - Microsoft
 #### 2. [237. Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/description/) - Amazon/Microsoft
