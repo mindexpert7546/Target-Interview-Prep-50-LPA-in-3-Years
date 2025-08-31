@@ -36,3 +36,4 @@
 #### 3. [26. Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/) - Facebook/Microsoft
 #### 4. [75. Sort Colors](https://leetcode.com/problems/sort-colors/description/) - Facebook
 #### 5. [125. Valid Palindrome](https://leetcode.com/problems/valid-palindrome/description/) - Facebook
+#### 6. [88. Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/description/) - Microsoft
